@@ -1,0 +1,10 @@
+# Data artifacts
+data/interim/
+data/temp/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
